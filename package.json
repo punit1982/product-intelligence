@@ -9,6 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.88.0",
+    "@google-cloud/vision": "^5.3.5",
+    "axios": "^1.15.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
     "next": "16.2.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"
